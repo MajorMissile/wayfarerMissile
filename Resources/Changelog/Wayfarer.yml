@@ -3510,3 +3510,10 @@ Entries:
   id: 6896
   time: '2026-05-18T16:10:29.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/920
+- author: TheSlapper
+  changes:
+    - type: Add
+      message: (Miles) Ported Goob slot machines.
+  id: 6897
+  time: '2026-05-18T16:11:15.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/913
