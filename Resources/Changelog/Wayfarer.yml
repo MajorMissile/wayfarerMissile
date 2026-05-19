@@ -3524,3 +3524,14 @@ Entries:
   id: 6898
   time: '2026-05-18T18:58:16.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/921
+- author: VVersengt
+  changes:
+    - type: Tweak
+      message: More contraband classification changes.
+    - type: Fix
+      message: The civilian access configurator is no longer evil.
+    - type: Tweak
+      message: CGP chest rig now has explosion resistance for contents.
+  id: 6899
+  time: '2026-05-19T01:46:34.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/923
