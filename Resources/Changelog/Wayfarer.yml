@@ -3551,3 +3551,10 @@ Entries:
   id: 6901
   time: '2026-05-21T14:10:44.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/933
+- author: DevArchwave
+  changes:
+    - type: Tweak
+      message: Biomass buffers needed to be nerfed a little.
+  id: 6902
+  time: '2026-05-21T14:11:39.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/939
