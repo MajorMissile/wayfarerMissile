@@ -3672,3 +3672,10 @@ Entries:
   id: 6916
   time: '2026-05-22T23:02:18.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/879
+- author: DevArchwave
+  changes:
+    - type: Tweak
+      message: Many more species can now choose any skin color.
+  id: 6917
+  time: '2026-05-22T23:06:33.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/756
