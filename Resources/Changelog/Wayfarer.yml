@@ -3608,3 +3608,10 @@ Entries:
   id: 6908
   time: '2026-05-22T02:11:55.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/951
+- author: Khaomi
+  changes:
+    - type: Tweak
+      message: Allow periods in character name
+  id: 6909
+  time: '2026-05-22T04:39:06.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/931
