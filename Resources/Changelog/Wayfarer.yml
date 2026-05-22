@@ -3597,3 +3597,14 @@ Entries:
   id: 6907
   time: '2026-05-22T02:05:14.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/941
+- author: VVersengt
+  changes:
+    - type: Fix
+      message: >-
+        Hristov, cannonballs and pirate cannons are now properly tagged as Black
+        Market
+    - type: Add
+      message: Spell scrolls are now marked as contraband for the purposes of turn-ins
+  id: 6908
+  time: '2026-05-22T02:11:55.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/951
