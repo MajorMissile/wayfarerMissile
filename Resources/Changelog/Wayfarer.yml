@@ -3693,3 +3693,12 @@ Entries:
   id: 6919
   time: '2026-05-23T00:40:49.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/963
+- author: DevArchwave
+  changes:
+    - type: Tweak
+      message: >-
+        Investigator given a slight hull pass to bring some elements into a more
+        up to date standing.
+  id: 6920
+  time: '2026-05-23T01:12:52.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/962
