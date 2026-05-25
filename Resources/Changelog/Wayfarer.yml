@@ -3757,3 +3757,12 @@ Entries:
   id: 6927
   time: '2026-05-25T20:42:32.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/982
+- author: DevArchwave
+  changes:
+    - type: Tweak
+      message: >-
+        Corrected the POI bounty vend inventory to have infinite stock of
+        certain items.
+  id: 6928
+  time: '2026-05-25T20:43:16.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/985
