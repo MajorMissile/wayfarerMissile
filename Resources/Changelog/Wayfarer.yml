@@ -3953,3 +3953,10 @@ Entries:
   id: 6951
   time: '2026-05-28T23:36:43.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1024
+- author: BlueSushii
+  changes:
+    - type: Tweak
+      message: Two long term narcolepsy meds
+  id: 6952
+  time: '2026-05-28T23:44:00.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1031
