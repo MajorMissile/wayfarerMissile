@@ -3913,3 +3913,10 @@ Entries:
   id: 6947
   time: '2026-05-27T02:36:04.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1007
+- author: TheSlapper
+  changes:
+    - type: Add
+      message: (Miles) Added manual crew management to the crew records console.
+  id: 6948
+  time: '2026-05-28T23:34:32.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1014
