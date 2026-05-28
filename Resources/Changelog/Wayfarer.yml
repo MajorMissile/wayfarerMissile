@@ -3927,3 +3927,10 @@ Entries:
   id: 6949
   time: '2026-05-28T23:35:26.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1018
+- author: Khaomi
+  changes:
+    - type: Add
+      message: Added prefix for Ship OOC
+  id: 6950
+  time: '2026-05-28T23:35:44.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1021
