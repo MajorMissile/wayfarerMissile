@@ -3991,3 +3991,20 @@ Entries:
   id: 6955
   time: '2026-05-28T23:58:34.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1033
+- author: VVersengt
+  changes:
+    - type: Add
+      message: Added pre-loaded magazines, weapons and new equipment to the CGP Techfab
+    - type: Add
+      message: Shuttle weapons and radar console to CGP Uplink
+    - type: Remove
+      message: >-
+        Removed laser cannon, xray cannon, temperature gun blueprints from loot,
+        pending one-use techprint.
+    - type: Tweak
+      message: Adjusted CGP gas mask to have flash immunity like the syndicate one.
+    - type: Fix
+      message: Fixed small exploits with printable weapons and grenades.
+  id: 6956
+  time: '2026-05-30T00:52:15.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1035
