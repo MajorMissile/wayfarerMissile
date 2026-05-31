@@ -4065,3 +4065,12 @@ Entries:
   id: 6963
   time: '2026-05-31T18:30:54.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1019
+- author: Luweth
+  changes:
+    - type: Add
+      message: Added blood-red headset appearance to loadouts.
+    - type: Add
+      message: Vox sprites for both outlaw hardsuits.
+  id: 6964
+  time: '2026-05-31T18:41:52.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1049
