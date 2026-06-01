@@ -4097,3 +4097,10 @@ Entries:
   id: 6967
   time: '2026-06-01T01:49:41.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1055
+- author: DevArchwave
+  changes:
+    - type: Tweak
+      message: The Pick N Pack vendor is now on general access.
+  id: 6968
+  time: '2026-06-01T01:50:39.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1040
