@@ -4090,3 +4090,10 @@ Entries:
   id: 6966
   time: '2026-06-01T01:49:10.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1054
+- author: DevArchwave
+  changes:
+    - type: Tweak
+      message: Disabled EMPs from affecting chameleon clothes by default.
+  id: 6967
+  time: '2026-06-01T01:49:41.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1055
