@@ -4152,3 +4152,10 @@ Entries:
   id: 6972
   time: '2026-06-03T01:22:56.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1069
+- author: drraccoony
+  changes:
+    - type: Tweak
+      message: Changed HornyHawker Vend shading
+  id: 6973
+  time: '2026-06-03T22:54:24.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1065
