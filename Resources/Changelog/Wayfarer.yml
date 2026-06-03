@@ -4197,3 +4197,12 @@ Entries:
   id: 6978
   time: '2026-06-03T23:07:12.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1077
+- author: DevArchwave
+  changes:
+    - type: Add
+      message: N2 deprivation kit
+    - type: Tweak
+      message: Changed the sprites for a few medical/chemistry related items.
+  id: 6979
+  time: '2026-06-03T23:10:20.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1078
