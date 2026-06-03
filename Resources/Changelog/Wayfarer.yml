@@ -4159,3 +4159,13 @@ Entries:
   id: 6973
   time: '2026-06-03T22:54:24.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1065
+- author: Khaomi
+  changes:
+    - type: Tweak
+      message: >-
+        Add Experiment Plushie to several areas (RandomToy spawner,
+        Gift/Mail/Prize Reward Pools, Cuddly Critter Vend, loadout and Grand
+        Lottery cargo crate)
+  id: 6974
+  time: '2026-06-03T22:55:23.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1063
