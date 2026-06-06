@@ -4291,3 +4291,10 @@ Entries:
   id: 6990
   time: '2026-06-06T08:17:54.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1092
+- author: DevArchwave
+  changes:
+    - type: Add
+      message: Wanted Outlaws now start with a voucher, too.
+  id: 6991
+  time: '2026-06-06T08:22:25.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1093
