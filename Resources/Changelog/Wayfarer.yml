@@ -4433,3 +4433,10 @@ Entries:
   id: 7008
   time: '2026-06-08T04:42:43.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1132
+- author: Nnelg
+  changes:
+    - type: Add
+      message: gave service roles most of the base Wayfarer loadout options
+  id: 7009
+  time: '2026-06-08T08:35:43.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1074
