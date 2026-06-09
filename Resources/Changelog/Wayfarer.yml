@@ -4482,3 +4482,10 @@ Entries:
   id: 7015
   time: '2026-06-09T19:58:05.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1135
+- author: Toriate
+  changes:
+    - type: Tweak
+      message: Artifact analyzers now drop their machine board upon destruction.
+  id: 7016
+  time: '2026-06-09T19:58:47.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1139
