@@ -4475,3 +4475,10 @@ Entries:
   id: 7014
   time: '2026-06-09T19:56:52.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1142
+- author: drraccoony
+  changes:
+    - type: Tweak
+      message: IPC get shocked upon being EMP'd and take shock damage
+  id: 7015
+  time: '2026-06-09T19:58:05.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1135
