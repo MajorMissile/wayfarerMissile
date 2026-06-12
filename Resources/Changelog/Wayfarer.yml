@@ -4558,3 +4558,14 @@ Entries:
   id: 7025
   time: '2026-06-12T15:14:00.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1162
+- author: VVersengt
+  changes:
+    - type: Add
+      message: Added more equipment to CGP lathe
+    - type: Add
+      message: New 40mm HEAT grenades
+    - type: Fix
+      message: sprite fixes for Tactical Magboots and CGP Energy Shield
+  id: 7026
+  time: '2026-06-12T15:58:53.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1161
