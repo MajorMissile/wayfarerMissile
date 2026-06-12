@@ -4576,3 +4576,10 @@ Entries:
   id: 7027
   time: '2026-06-12T16:27:09.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1157
+- author: VVersengt
+  changes:
+    - type: Fix
+      message: Fixed outlaw thrusters deconstructing into regular ones.
+  id: 7028
+  time: '2026-06-12T16:29:23.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1147
