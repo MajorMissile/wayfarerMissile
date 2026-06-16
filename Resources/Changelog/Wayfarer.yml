@@ -4627,3 +4627,12 @@ Entries:
   id: 7034
   time: '2026-06-16T02:43:36.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1164
+- author: Toriate
+  changes:
+    - type: Add
+      message: Added new RCD and RPD sprites.
+    - type: Fix
+      message: Fixed the base RCD sprite that had the old RCD underlayed beneath it.
+  id: 7035
+  time: '2026-06-16T02:47:37.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1167
